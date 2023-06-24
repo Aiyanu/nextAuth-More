@@ -11,7 +11,7 @@ const About = () => {
           }
           fill={true}
           alt=""
-          className="styles.img"
+          className={styles.img}
         />
         <div className={styles.imgText}>
           <h1 className={styles.imgTitle}>Digital Storytellers</h1>
